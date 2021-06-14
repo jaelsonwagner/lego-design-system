@@ -1,4 +1,4 @@
-# Lego Design System - Android
+# Lego Design System - iOS
 
 Toda vez que explicamos Design System usamos como exemplo as famosas peças de Lego, pois qualquer criança no mundo consegue
 unir facilmente as peças e criar diferentes construções de acordo com sua criatividade.
@@ -27,15 +27,15 @@ https://www.figma.com/file/KaBWI7Bdi6npuOjPDmhBTm/Design-System?node-id=387%3A82
 
 - [x] **Desenvolver de 1 a 3 componentes** seguindo o layout de HandOff do Figma. (Fique a vontade para escolher)
 
-- [x] **Documentar** a implementação (uso) dos **componentes que você codou** de acordo com o [modelo de exemplo](https://github.com/victormath12/lego-design-system/blob/main/android/modelo-documentacao/button.md)
+- [x] **Documentar** a implementação (uso) dos **componentes que você codou** de acordo com o [modelo de exemplo](https://github.com/victormath12/lego-design-system/blob/main/ios/modelo-documentacao/button.md)
 
 <br/>
 
 ## Requisitos Essenciais
 
-- [x] Usar Kotlin.
+- [x] Usar Swift 5.
 
-- [x] Injeção :syringe: de dependência com Dagger ou similar.
+- [x] Interface no Storyboard usando Auto Layout.
 
 - [x] Testes unitários nos componentes. (sem coverage mínimo, apenas se preocupe em testar o que você julga ser necessário) :clipboard:
 
@@ -51,6 +51,8 @@ https://www.figma.com/file/KaBWI7Bdi6npuOjPDmhBTm/Design-System?node-id=387%3A82
 
 - [ ] Construir Testes de interface ou pixel-perfect.
 
+- [ ] Integração com fastlane para cobertura :bar_chart: de testes.
+
 <br/>
 
 ## Observações
@@ -65,4 +67,4 @@ O importante é você nos mostrar até onde conseguiu chegar e qual é o seu est
 - [x] Buscamos um código bem simples, organizado e que se preocupe com o alto desempenho :chart_with_downwards_trend:.
 
 - [x] Fique a vontade :point_up: para usar quantas bibliotecas quiser ou design-patterns que você achar pertinente em sua solução. 
-Estamos interessados em saber se você está atualizado com as melhores práticas em desenvolvimento Android. 
+Estamos interessados em saber se você está atualizado com as melhores práticas em desenvolvimento iOS. 
