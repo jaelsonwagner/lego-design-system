@@ -53,6 +53,8 @@ https://www.figma.com/file/KaBWI7Bdi6npuOjPDmhBTm/Design-System?node-id=387%3A82
 
 - [ ] Integração com fastlane para cobertura :bar_chart: de testes.
 
+- [ ] Modularizar componentes para serem utilizados por outros apps.
+
 <br/>
 
 ## Observações

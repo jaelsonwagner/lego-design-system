@@ -1,2 +1,9 @@
 # lego-design-system
-Lego Design System Challenge
+
+**iOS**
+
+[Desenvolvedor iOS](./README_iOS.md)
+
+**Android**
+
+[Desenvolvedor Android](./README_Android.md)
