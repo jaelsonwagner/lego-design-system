@@ -2,8 +2,8 @@
 
 **iOS**
 
-[Desenvolvedor iOS](./README_iOS.md)
+[Desenvolvedor iOS](./ios/README.md)
 
 **Android**
 
-[Desenvolvedor Android](./README_Android.md)
+[Desenvolvedor Android](./android/README.md)
