@@ -17,32 +17,38 @@ https://www.figma.com/file/KaBWI7Bdi6npuOjPDmhBTm/Design-System?node-id=387%3A82
 
 ## Neste desafio você deverá:
 
-- [x] **Desenvolver no mínimo 3 componentes** seguindo o layout de HandOff do Figma.
-- [x] **Documentar** a implementação (uso) de no **mínimo 3 componentes** desenvolvidos de acordo com o **modelo de exemplo**
-- [x] Desenvolver um **sample-app simples** para demonstrar o funcionamento dos componentes codados.
+- [x] **Desenvolver de 1 a 3 componentes** seguindo o layout de HandOff do Figma. (Fique a vontade para escolher)
+
+- [x] **Documentar** a implementação (uso) dos **componentes que você codou** de acordo com o [modelo de exemplo](https://github.com/victormath12/lego-design-system/blob/main/android/modelo-documentacao/button.md)
 
 ## Requisitos Essenciais
 
 - [x] Usar Kotlin.
+
 - [x] Injeção :syringe: de dependência com Dagger ou similar.
-- [x] O seu sample-app não pode apresentar crash :boom:.
-- [x] Documentação de implementação (uso) nos componentes.
-- [x] Testes :clipboard: unitários nos componentes.
-- [x] Componentes codados de acordo com o HandOff do figma.
-- [x] Utilizar os design-tokens (cores, fontes, espaçamentos). 
 
-## Bônus
+- [x] Testes unitários nos componentes. (sem coverage mínimo, apenas se preocupe em testar o que você julga ser necessário) :clipboard:
 
-- [ ] Desenvolva uma interface que se adapte a telas maiores *(ex.: Tablet)*.
-- [ ] Desenvolva utilizando as melhores práticas de acessibilidade.
-- [ ] Testes de interface ou pixel-perfect :+1:.
+## Você se destacará se:
+
+- [ ] Desenvolver um **sample-app simples** para demonstrar o funcionamento dos componentes codados. (No figma deixamos uma **sugestão** de layout)
+
+- [ ] Reaproveitar propriedades de estilo (cores, fontes, espaçamentos) entre componentes. 
+
+- [ ] Desenvolver utilizando as melhores práticas de acessibilidade.
+
+- [ ] Construir Testes de interface ou pixel-perfect.
 
 ## Observações
 
 - [x] Deixamos componentes com diversos níveis de complexidade, se você não conseguir desenvolver algum dos componentes não tem problema! 
 O importante é você nos mostrar até onde conseguiu chegar e qual é o seu estilo de codificação.
+
 - [x] Não se preocupe em deployar seu sample-app em uma loja de aplicativos... Invista seu tempo em construir, testar e documentar seus componentes da melhor forma!
+
 - [x] Na construção do sample-app você decide se utilizará roteamento (multi-telas) ou se o app terá uma única tela com todos os exemplos de componentes.
+
 - [x] Buscamos um código bem simples, organizado e que se preocupe com o alto desempenho :chart_with_downwards_trend:.
+
 - [x] Fique a vontade :point_up: para usar quantas bibliotecas quiser ou design-patterns que você achar pertinente em sua solução. 
 Estamos interessados em saber se você está atualizado com as melhores práticas em desenvolvimento Android. 
